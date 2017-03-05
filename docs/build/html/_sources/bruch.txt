@@ -1,0 +1,10 @@
+Bruch module
+------------
+
+.. automodule:: Bruch
+.. autoclass:: Bruch
+    :members:
+    :private-members:
+    :undoc-members:
+    :special-members:
+    :exclude-members: __dict__, __weakref__, __hash__, __module__

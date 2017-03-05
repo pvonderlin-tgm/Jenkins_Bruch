@@ -1,0 +1,1 @@
+Search.setIndex({docnames:["bruch","index"],envversion:51,filenames:["bruch.rst","index.rst"],objects:{},objnames:{},objtypes:{},terms:{bruch:1,content:1,index:1,modul:1,page:1,search:1},titles:["Bruch module","Welcome to TDD with Python&#8217;s documentation!"],titleterms:{bruch:0,document:1,indic:1,modul:0,python:1,tabl:1,tdd:1,welcom:1}})
