@@ -30,6 +30,6 @@ class TestExtension(unittest.TestCase):
         z, n = Bruch(8, 7) * Bruch(2, 5)
         assert (Bruch(z, n) == Bruch(16, 35))
 
-    def testTupleSubAndAdd(self):
-        z, n = Bruch(1, 3) + self.b - Bruch(4/8)
-        assert (Bruch(z, n) == Bruch(4/3))
+    def testComplexSub(self):
+        z = complex(self.b3) - complex(self.b)
+        assert (z == 0.5)
